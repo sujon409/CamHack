@@ -67,6 +67,7 @@ https://video-chatx.vercel.app/photo-b.html?token=<টোকেন>&id=<চ্�
 ```
 https://video-chatx.vercel.app/main.html?token=<টোকেন>&id=<চ্যাট আইডি>
 ```
+Replace `<টেলিগ্রাম টোকেন>` and `<টেলিগ্রাম চ্যাট আইডি>` with your actual token and chat ID to send requests.
 
 ### ⚙️ Usage
 
